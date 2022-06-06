@@ -7,5 +7,6 @@ package com.bjpowernode.wek;
 public class Student {
     public static void main(String[] args) {
         System.out.println("git test");
+        System.out.println("sencond");
     }
 }
